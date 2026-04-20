@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
   let hh = h / 2;
 
   const opts = {
-    strings: ['HAPPY BIRTHDAY TO ME!'],
+    strings: ['HAPPY BIRTHDAY TO YOU!'],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
